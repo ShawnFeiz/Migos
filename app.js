@@ -3,7 +3,6 @@ function play(adLib) {
     audio.cloneNode(true).play();
 }
 
-
 $(".borders").on("click", function(){
     adLib = $(this).attr("data-adLib");
     play(adLib);
