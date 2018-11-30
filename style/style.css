@@ -1,0 +1,22 @@
+.navbar {
+    margin-bottom: 5px;
+    background-image: url("migos1.jpg");
+    background-size: 112% 244%;
+    background-repeat: no-repeat;
+    background-position: 80% 20%;
+}
+
+.borders {
+    height: 130px;
+    /* border: 1px solid black; */
+    margin-top: 5px;
+    background-color: #ffa64d;
+}
+
+button:active {
+    background-color:  #ff8000;
+}
+
+button:focus {
+    outline:0;
+}
