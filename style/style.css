@@ -4,6 +4,10 @@
   letter-spacing: 2px;
 }
 
+body {
+    background-color: black;
+}
+
 .navbar {
     margin-bottom: 70px;
     background-image: url("migos1.jpg");
